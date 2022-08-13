@@ -1,0 +1,19 @@
+
+  p.dotted {
+    border:3px dotted rgb(9, 255, 0);
+}
+
+p.dashed {
+    border-top: 5px dashed red; 
+    
+    
+}
+
+p.solid {
+    border-style: solid;
+}
+
+p.double {
+    border:2px solid red;
+}
+
